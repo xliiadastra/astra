@@ -1,0 +1,2 @@
+# astra
+while (1)
